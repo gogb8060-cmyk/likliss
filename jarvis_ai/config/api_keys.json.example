@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "your-openai-api-key-here",
+  "google_api_key": "your-google-api-key-here",
+  "weather_api_key": "your-weather-api-key-here",
+  "news_api_key": "your-news-api-key-here",
+  "wolfram_alpha_appid": "your-wolfram-alpha-appid-here",
+  "encryption_key": "your-encryption-key-here"
+}
